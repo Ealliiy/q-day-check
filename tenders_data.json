@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25",
-  "last_successful_update": "2026-07-25",
+  "updated": "2026-07-26",
+  "last_successful_update": "2026-07-26",
   "health": "ok",
   "history": [
     {
@@ -44,6 +44,12 @@
       "date": "2026-07-25",
       "status": "ok",
       "count": 5
+    },
+    {
+      "timestamp": "2026-07-26 07:42",
+      "date": "2026-07-26",
+      "status": "ok",
+      "count": 5
     }
   ],
   "tenders": [
@@ -56,7 +62,7 @@
       "deadline": "2026-07-26 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=HGdsaGfBGFdSlXDbYN2oiQ==",
-      "days_remaining": 1
+      "days_remaining": 0
     },
     {
       "title": "تجديد وتطوير التراخيص والدعم الفني لمركز الأزمات لعام 2026",
@@ -67,7 +73,7 @@
       "deadline": "2026-07-26 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=SGtikb%20PCtdUmegOUk0x%20Q==",
-      "days_remaining": 1
+      "days_remaining": 0
     },
     {
       "title": "توريد وتركيب منصة التهديدات الاستباقية",
@@ -78,7 +84,7 @@
       "deadline": "2026-07-30 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=wkgl%20uAZtylqITdzS*@@**2N2Q==",
-      "days_remaining": 5
+      "days_remaining": 4
     },
     {
       "title": "تقديم خدمات إدارة المخاطر السيبرانية (المرحلة الثانية)",
@@ -89,7 +95,7 @@
       "deadline": "2026-07-30 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4iyyuPeV6NLZeD0Zlu3f9w==",
-      "days_remaining": 5
+      "days_remaining": 4
     },
     {
       "title": "رخص خدمات الأمن السيبراني",
@@ -100,7 +106,7 @@
       "deadline": "2026-08-05 15:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4YyLG2WTmvjStJ3vNti*@@**FQ==",
-      "days_remaining": 11
+      "days_remaining": 10
     }
   ]
 }
