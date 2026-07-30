@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29",
-  "last_successful_update": "2026-07-29",
+  "updated": "2026-07-30",
+  "last_successful_update": "2026-07-30",
   "health": "ok",
   "history": [
     {
@@ -68,6 +68,12 @@
       "date": "2026-07-29",
       "status": "ok",
       "count": 4
+    },
+    {
+      "timestamp": "2026-07-30 07:40",
+      "date": "2026-07-30",
+      "status": "ok",
+      "count": 5
     }
   ],
   "tenders": [
@@ -80,7 +86,7 @@
       "deadline": "2026-07-30 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=wkgl%20uAZtylqITdzS*@@**2N2Q==",
-      "days_remaining": 1
+      "days_remaining": 0
     },
     {
       "title": "تقديم خدمات إدارة المخاطر السيبرانية (المرحلة الثانية)",
@@ -91,7 +97,7 @@
       "deadline": "2026-07-30 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4iyyuPeV6NLZeD0Zlu3f9w==",
-      "days_remaining": 1
+      "days_remaining": 0
     },
     {
       "title": "رخص خدمات الأمن السيبراني",
@@ -102,7 +108,7 @@
       "deadline": "2026-08-05 15:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4YyLG2WTmvjStJ3vNti*@@**FQ==",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "title": "الدعم الفني للخدمات الرقمية وتشغيلها لمنطقة الابتكار",
@@ -113,7 +119,18 @@
       "deadline": "2026-08-13 09:59",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4wMTDzafn%20m%204FkrO*@@**Efyg==",
-      "days_remaining": 15
+      "days_remaining": 14
+    },
+    {
+      "title": "تجديد الدعم الفني والصيانة لنظام إدارة المرافق والصيانة",
+      "tender_number": "2026000363",
+      "reference_number": "260739009727",
+      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
+      "publish_date": "2026-07-29",
+      "deadline": "2026-08-16 14:00",
+      "ended": false,
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=2w1Zx2Tj3huKRz%20frw99ew==",
+      "days_remaining": 17
     }
   ]
 }
