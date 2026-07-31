@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30",
-  "last_successful_update": "2026-07-30",
+  "updated": "2026-07-31",
+  "last_successful_update": "2026-07-31",
   "health": "ok",
   "history": [
     {
@@ -74,31 +74,15 @@
       "date": "2026-07-30",
       "status": "ok",
       "count": 5
+    },
+    {
+      "timestamp": "2026-07-31 07:57",
+      "date": "2026-07-31",
+      "status": "ok",
+      "count": 3
     }
   ],
   "tenders": [
-    {
-      "title": "توريد وتركيب منصة التهديدات الاستباقية",
-      "tender_number": "2026000218",
-      "reference_number": "260439013671",
-      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
-      "publish_date": "2026-06-10",
-      "deadline": "2026-07-30 16:00",
-      "ended": false,
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=wkgl%20uAZtylqITdzS*@@**2N2Q==",
-      "days_remaining": 0
-    },
-    {
-      "title": "تقديم خدمات إدارة المخاطر السيبرانية (المرحلة الثانية)",
-      "tender_number": "2026000180",
-      "reference_number": "260439012701",
-      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
-      "publish_date": "2026-06-10",
-      "deadline": "2026-07-30 16:00",
-      "ended": false,
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4iyyuPeV6NLZeD0Zlu3f9w==",
-      "days_remaining": 0
-    },
     {
       "title": "رخص خدمات الأمن السيبراني",
       "tender_number": "2026000397",
@@ -108,7 +92,7 @@
       "deadline": "2026-08-05 15:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4YyLG2WTmvjStJ3vNti*@@**FQ==",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "title": "الدعم الفني للخدمات الرقمية وتشغيلها لمنطقة الابتكار",
@@ -119,7 +103,7 @@
       "deadline": "2026-08-13 09:59",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4wMTDzafn%20m%204FkrO*@@**Efyg==",
-      "days_remaining": 14
+      "days_remaining": 13
     },
     {
       "title": "تجديد الدعم الفني والصيانة لنظام إدارة المرافق والصيانة",
@@ -130,7 +114,7 @@
       "deadline": "2026-08-16 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=2w1Zx2Tj3huKRz%20frw99ew==",
-      "days_remaining": 17
+      "days_remaining": 16
     }
   ]
 }
