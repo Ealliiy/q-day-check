@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03",
-  "last_successful_update": "2026-08-03",
+  "updated": "2026-08-04",
+  "last_successful_update": "2026-08-04",
   "health": "ok",
   "history": [
     {
@@ -98,6 +98,12 @@
       "date": "2026-08-03",
       "status": "ok",
       "count": 3
+    },
+    {
+      "timestamp": "2026-08-04 07:45",
+      "date": "2026-08-04",
+      "status": "ok",
+      "count": 3
     }
   ],
   "tenders": [
@@ -110,7 +116,7 @@
       "deadline": "2026-08-05 15:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4YyLG2WTmvjStJ3vNti*@@**FQ==",
-      "days_remaining": 2
+      "days_remaining": 1
     },
     {
       "title": "الدعم الفني للخدمات الرقمية وتشغيلها لمنطقة الابتكار",
@@ -121,7 +127,7 @@
       "deadline": "2026-08-13 09:59",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4wMTDzafn%20m%204FkrO*@@**Efyg==",
-      "days_remaining": 10
+      "days_remaining": 9
     },
     {
       "title": "تجديد الدعم الفني والصيانة لنظام إدارة المرافق والصيانة",
@@ -132,7 +138,7 @@
       "deadline": "2026-08-16 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=2w1Zx2Tj3huKRz%20frw99ew==",
-      "days_remaining": 13
+      "days_remaining": 12
     }
   ]
 }
