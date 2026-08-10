@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09",
-  "last_successful_update": "2026-08-09",
+  "updated": "2026-08-10",
+  "last_successful_update": "2026-08-10",
   "health": "ok",
   "history": [
     {
@@ -134,6 +134,12 @@
       "date": "2026-08-09",
       "status": "ok",
       "count": 3
+    },
+    {
+      "timestamp": "2026-08-10 06:17",
+      "date": "2026-08-10",
+      "status": "ok",
+      "count": 3
     }
   ],
   "tenders": [
@@ -146,7 +152,7 @@
       "deadline": "2026-08-13 09:59",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4wMTDzafn%20m%204FkrO*@@**Efyg==",
-      "days_remaining": 4
+      "days_remaining": 3
     },
     {
       "title": "تجديد الدعم الفني والصيانة لنظام إدارة المرافق والصيانة",
@@ -157,7 +163,7 @@
       "deadline": "2026-08-16 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=2w1Zx2Tj3huKRz%20frw99ew==",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "title": "التجهيزات التقنية لفرع",
@@ -168,7 +174,7 @@
       "deadline": "2026-08-23 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=mery1msbpVbrHBFIsiya8A==",
-      "days_remaining": 14
+      "days_remaining": 13
     }
   ]
 }
