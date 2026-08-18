@@ -1,14 +1,8 @@
 {
-  "updated": "2026-08-17",
-  "last_successful_update": "2026-08-17",
+  "updated": "2026-08-18",
+  "last_successful_update": "2026-08-18",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-07-20 13:24",
-      "date": "2026-07-20",
-      "status": "ok",
-      "count": 5
-    },
     {
       "timestamp": "2026-07-21 06:29",
       "date": "2026-07-21",
@@ -182,6 +176,12 @@
       "date": "2026-08-17",
       "status": "ok",
       "count": 2
+    },
+    {
+      "timestamp": "2026-08-18 05:37",
+      "date": "2026-08-18",
+      "status": "ok",
+      "count": 2
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-08-23 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=mery1msbpVbrHBFIsiya8A==",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "title": "الدعم الفني للخدمات الرقمية وتشغيلها لمنطقة الابتكار",
@@ -205,7 +205,7 @@
       "deadline": "2026-08-23 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4wMTDzafn%20m%204FkrO*@@**Efyg==",
-      "days_remaining": 6
+      "days_remaining": 5
     }
   ]
 }
