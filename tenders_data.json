@@ -1,14 +1,8 @@
 {
-  "updated": "2026-08-22",
-  "last_successful_update": "2026-08-22",
+  "updated": "2026-08-23",
+  "last_successful_update": "2026-08-23",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-07-24 07:38",
-      "date": "2026-07-24",
-      "status": "ok",
-      "count": 5
-    },
     {
       "timestamp": "2026-07-25 07:24",
       "date": "2026-07-25",
@@ -182,6 +176,12 @@
       "date": "2026-08-22",
       "status": "ok",
       "count": 2
+    },
+    {
+      "timestamp": "2026-08-23 05:36",
+      "date": "2026-08-23",
+      "status": "ok",
+      "count": 2
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-08-23 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=4wMTDzafn%20m%204FkrO*@@**Efyg==",
-      "days_remaining": 1
+      "days_remaining": 0
     },
     {
       "title": "التجهيزات التقنية لفرع",
@@ -205,7 +205,7 @@
       "deadline": "2026-08-30 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=mery1msbpVbrHBFIsiya8A==",
-      "days_remaining": 8
+      "days_remaining": 7
     }
   ]
 }
