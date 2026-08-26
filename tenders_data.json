@@ -1,14 +1,8 @@
 {
-  "updated": "2026-08-25",
-  "last_successful_update": "2026-08-25",
+  "updated": "2026-08-26",
+  "last_successful_update": "2026-08-26",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-07-27 08:40",
-      "date": "2026-07-27",
-      "status": "ok",
-      "count": 3
-    },
     {
       "timestamp": "2026-07-28 07:44",
       "date": "2026-07-28",
@@ -182,6 +176,12 @@
       "date": "2026-08-25",
       "status": "ok",
       "count": 1
+    },
+    {
+      "timestamp": "2026-08-26 05:41",
+      "date": "2026-08-26",
+      "status": "ok",
+      "count": 2
     }
   ],
   "tenders": [
@@ -194,7 +194,18 @@
       "deadline": "2026-08-30 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=mery1msbpVbrHBFIsiya8A==",
-      "days_remaining": 5
+      "days_remaining": 4
+    },
+    {
+      "title": "الدعم الفني والتكامل للخدمات الإلكترونية لوزارة الطاقة",
+      "tender_number": "2026000417",
+      "reference_number": "260839008174",
+      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
+      "publish_date": "2026-08-25",
+      "deadline": "2026-09-27 16:00",
+      "ended": false,
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=TJqaRqfbJN6Y*@@**nUnYso8uQ==",
+      "days_remaining": 32
     }
   ]
 }
