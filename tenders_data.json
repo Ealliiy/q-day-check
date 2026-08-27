@@ -1,14 +1,8 @@
 {
-  "updated": "2026-08-26",
-  "last_successful_update": "2026-08-26",
+  "updated": "2026-08-27",
+  "last_successful_update": "2026-08-27",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-07-28 07:44",
-      "date": "2026-07-28",
-      "status": "ok",
-      "count": 4
-    },
     {
       "timestamp": "2026-07-29 07:50",
       "date": "2026-07-29",
@@ -182,6 +176,12 @@
       "date": "2026-08-26",
       "status": "ok",
       "count": 2
+    },
+    {
+      "timestamp": "2026-08-27 16:21",
+      "date": "2026-08-27",
+      "status": "ok",
+      "count": 2
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-08-30 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=mery1msbpVbrHBFIsiya8A==",
-      "days_remaining": 4
+      "days_remaining": 3
     },
     {
       "title": "الدعم الفني والتكامل للخدمات الإلكترونية لوزارة الطاقة",
@@ -205,7 +205,7 @@
       "deadline": "2026-09-27 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=TJqaRqfbJN6Y*@@**nUnYso8uQ==",
-      "days_remaining": 32
+      "days_remaining": 31
     }
   ]
 }
