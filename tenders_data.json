@@ -1,14 +1,8 @@
 {
-  "updated": "2026-09-20",
-  "last_successful_update": "2026-09-20",
+  "updated": "2026-09-21",
+  "last_successful_update": "2026-09-21",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-08-22 05:35",
-      "date": "2026-08-22",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-08-23 05:36",
       "date": "2026-08-23",
@@ -182,6 +176,12 @@
       "date": "2026-09-20",
       "status": "ok",
       "count": 2
+    },
+    {
+      "timestamp": "2026-09-21 10:35",
+      "date": "2026-09-21",
+      "status": "ok",
+      "count": 2
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-09-27 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=TJqaRqfbJN6Y*@@**nUnYso8uQ==",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "title": "ترقية وتحسين نظام إدارة المشاريع المؤسسية",
@@ -205,7 +205,7 @@
       "deadline": "2026-09-30 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=0RYOF38Bb5KpkRuofGW6Rw==",
-      "days_remaining": 10
+      "days_remaining": 9
     }
   ]
 }
