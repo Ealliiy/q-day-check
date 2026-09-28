@@ -1,14 +1,8 @@
 {
-  "updated": "2026-09-27",
-  "last_successful_update": "2026-09-27",
+  "updated": "2026-09-28",
+  "last_successful_update": "2026-09-28",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-08-29 11:34",
-      "date": "2026-08-29",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-08-30 10:27",
       "date": "2026-08-30",
@@ -182,20 +176,15 @@
       "date": "2026-09-27",
       "status": "ok",
       "count": 2
+    },
+    {
+      "timestamp": "2026-09-28 11:37",
+      "date": "2026-09-28",
+      "status": "ok",
+      "count": 1
     }
   ],
   "tenders": [
-    {
-      "title": "الدعم الفني والتكامل للخدمات الإلكترونية لوزارة الطاقة",
-      "tender_number": "2026000417",
-      "reference_number": "260839008174",
-      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
-      "publish_date": "2026-08-25",
-      "deadline": "2026-09-27 16:00",
-      "ended": false,
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=TJqaRqfbJN6Y*@@**nUnYso8uQ==",
-      "days_remaining": 0
-    },
     {
       "title": "ترقية وتحسين نظام إدارة المشاريع المؤسسية",
       "tender_number": "2026000349",
@@ -205,7 +194,7 @@
       "deadline": "2026-09-30 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=0RYOF38Bb5KpkRuofGW6Rw==",
-      "days_remaining": 3
+      "days_remaining": 2
     }
   ]
 }
