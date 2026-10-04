@@ -1,14 +1,8 @@
 {
-  "updated": "2026-10-03",
-  "last_successful_update": "2026-10-03",
+  "updated": "2026-10-04",
+  "last_successful_update": "2026-10-04",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-09-04 09:28",
-      "date": "2026-09-04",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-09-05 08:56",
       "date": "2026-09-05",
@@ -182,6 +176,12 @@
       "date": "2026-10-03",
       "status": "ok",
       "count": 2
+    },
+    {
+      "timestamp": "2026-10-04 11:03",
+      "date": "2026-10-04",
+      "status": "ok",
+      "count": 2
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-10-11 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=0RYOF38Bb5KpkRuofGW6Rw==",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "title": "تجديد وتوريد التراخيص والدعم الفني لأنظمة تقنية المعلومات بوزارة الطاقة 2026",
@@ -205,7 +205,7 @@
       "deadline": "2026-11-01 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8gsX6tjW2LrK3oYWCfaPZQ==",
-      "days_remaining": 29
+      "days_remaining": 28
     }
   ]
 }
