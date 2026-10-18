@@ -1,14 +1,9 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "last_successful_update": "2026-10-17",
-  "health": "ok",
+  "health": "stale",
+  "health_note": "الاستخراج رجع صفر بطاقات بينما توجد بيانات سابقة",
   "history": [
-    {
-      "timestamp": "2026-09-18 09:34",
-      "date": "2026-09-18",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-09-19 09:21",
       "date": "2026-09-19",
@@ -182,6 +177,12 @@
       "date": "2026-10-17",
       "status": "ok",
       "count": 1
+    },
+    {
+      "timestamp": "2026-10-18 09:26",
+      "date": "2026-10-18",
+      "status": "fail",
+      "count": 0
     }
   ],
   "tenders": [
