@@ -1,15 +1,8 @@
 {
-  "updated": "2026-10-18",
-  "last_successful_update": "2026-10-17",
-  "health": "stale",
-  "health_note": "الاستخراج رجع صفر بطاقات بينما توجد بيانات سابقة",
+  "updated": "2026-10-19",
+  "last_successful_update": "2026-10-19",
+  "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-09-19 09:21",
-      "date": "2026-09-19",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-09-20 09:43",
       "date": "2026-09-20",
@@ -183,6 +176,12 @@
       "date": "2026-10-18",
       "status": "fail",
       "count": 0
+    },
+    {
+      "timestamp": "2026-10-19 10:39",
+      "date": "2026-10-19",
+      "status": "ok",
+      "count": 1
     }
   ],
   "tenders": [
@@ -195,7 +194,7 @@
       "deadline": "2026-11-01 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8gsX6tjW2LrK3oYWCfaPZQ==",
-      "days_remaining": 15
+      "days_remaining": 13
     }
   ]
 }
