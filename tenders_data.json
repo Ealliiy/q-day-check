@@ -1,14 +1,8 @@
 {
-  "updated": "2026-10-20",
-  "last_successful_update": "2026-10-20",
+  "updated": "2026-10-21",
+  "last_successful_update": "2026-10-21",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-09-21 10:35",
-      "date": "2026-09-21",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-09-22 09:48",
       "date": "2026-09-22",
@@ -182,6 +176,12 @@
       "date": "2026-10-20",
       "status": "ok",
       "count": 1
+    },
+    {
+      "timestamp": "2026-10-21 09:59",
+      "date": "2026-10-21",
+      "status": "ok",
+      "count": 1
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-11-01 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8gsX6tjW2LrK3oYWCfaPZQ==",
-      "days_remaining": 12
+      "days_remaining": 11
     }
   ]
 }
