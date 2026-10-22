@@ -1,14 +1,8 @@
 {
-  "updated": "2026-10-21",
-  "last_successful_update": "2026-10-21",
+  "updated": "2026-10-22",
+  "last_successful_update": "2026-10-22",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-09-22 09:48",
-      "date": "2026-09-22",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-09-23 09:51",
       "date": "2026-09-23",
@@ -182,6 +176,12 @@
       "date": "2026-10-21",
       "status": "ok",
       "count": 1
+    },
+    {
+      "timestamp": "2026-10-22 10:01",
+      "date": "2026-10-22",
+      "status": "ok",
+      "count": 2
     }
   ],
   "tenders": [
@@ -194,7 +194,18 @@
       "deadline": "2026-11-01 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8gsX6tjW2LrK3oYWCfaPZQ==",
-      "days_remaining": 11
+      "days_remaining": 10
+    },
+    {
+      "title": "تقديم خدمات مراقبة التهديدات السيبرانية",
+      "tender_number": "2026000269",
+      "reference_number": "261039007978",
+      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
+      "publish_date": "2026-10-21",
+      "deadline": "2026-11-22 16:00",
+      "ended": false,
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MNRtKeendGgQbXU0w6iMMA==",
+      "days_remaining": 31
     }
   ]
 }
