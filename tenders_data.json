@@ -1,14 +1,8 @@
 {
-  "updated": "2026-10-24",
-  "last_successful_update": "2026-10-24",
+  "updated": "2026-10-25",
+  "last_successful_update": "2026-10-25",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-09-25 10:07",
-      "date": "2026-09-25",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-09-26 09:48",
       "date": "2026-09-26",
@@ -182,6 +176,12 @@
       "date": "2026-10-24",
       "status": "ok",
       "count": 2
+    },
+    {
+      "timestamp": "2026-10-25 09:42",
+      "date": "2026-10-25",
+      "status": "ok",
+      "count": 2
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-11-01 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8gsX6tjW2LrK3oYWCfaPZQ==",
-      "days_remaining": 8
+      "days_remaining": 7
     },
     {
       "title": "تقديم خدمات مراقبة التهديدات السيبرانية",
@@ -205,7 +205,7 @@
       "deadline": "2026-11-22 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MNRtKeendGgQbXU0w6iMMA==",
-      "days_remaining": 29
+      "days_remaining": 28
     }
   ]
 }
