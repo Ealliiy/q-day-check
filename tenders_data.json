@@ -1,14 +1,8 @@
 {
-  "updated": "2026-10-26",
-  "last_successful_update": "2026-10-26",
+  "updated": "2026-10-27",
+  "last_successful_update": "2026-10-27",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-09-27 10:29",
-      "date": "2026-09-27",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-09-28 11:37",
       "date": "2026-09-28",
@@ -182,6 +176,12 @@
       "date": "2026-10-26",
       "status": "ok",
       "count": 2
+    },
+    {
+      "timestamp": "2026-10-27 10:20",
+      "date": "2026-10-27",
+      "status": "ok",
+      "count": 3
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-11-01 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8gsX6tjW2LrK3oYWCfaPZQ==",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "title": "تقديم خدمات مراقبة التهديدات السيبرانية",
@@ -205,7 +205,18 @@
       "deadline": "2026-11-22 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MNRtKeendGgQbXU0w6iMMA==",
-      "days_remaining": 27
+      "days_remaining": 26
+    },
+    {
+      "title": "خدمات الطباعة المدارة لوزارة الطاقة",
+      "tender_number": "2026000569",
+      "reference_number": "260939009605",
+      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
+      "publish_date": "2026-10-27",
+      "deadline": "2026-11-26 09:59",
+      "ended": false,
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8BP9IDV*@@**pwKbl4OWoPc*@@**Iw==",
+      "days_remaining": 30
     }
   ]
 }
