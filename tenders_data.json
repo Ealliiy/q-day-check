@@ -1,14 +1,8 @@
 {
-  "updated": "2026-11-09",
-  "last_successful_update": "2026-11-09",
+  "updated": "2026-11-10",
+  "last_successful_update": "2026-11-10",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-10-11 11:21",
-      "date": "2026-10-11",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-10-12 12:59",
       "date": "2026-10-12",
@@ -182,6 +176,12 @@
       "date": "2026-11-09",
       "status": "ok",
       "count": 3
+    },
+    {
+      "timestamp": "2026-11-10 13:26",
+      "date": "2026-11-10",
+      "status": "ok",
+      "count": 4
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-11-15 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8gsX6tjW2LrK3oYWCfaPZQ==",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "title": "تقديم خدمات مراقبة التهديدات السيبرانية",
@@ -205,7 +205,18 @@
       "deadline": "2026-11-22 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MNRtKeendGgQbXU0w6iMMA==",
-      "days_remaining": 13
+      "days_remaining": 12
+    },
+    {
+      "title": "خدمات الصيانة لأنظمة إمداد الطاقة غيرالمنقطعة (UPS) ووحدات التبريد، بما في ذلك التنظيف العميق (Dee ...",
+      "tender_number": "2026000435",
+      "reference_number": "260939009919",
+      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
+      "publish_date": "2026-11-10",
+      "deadline": "2026-11-25 09:59",
+      "ended": false,
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=%20hLHVqkeDJGEe3bDl19PRg==",
+      "days_remaining": 15
     },
     {
       "title": "خدمات الطباعة المدارة لوزارة الطاقة",
@@ -216,7 +227,7 @@
       "deadline": "2026-11-29 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8BP9IDV*@@**pwKbl4OWoPc*@@**Iw==",
-      "days_remaining": 20
+      "days_remaining": 19
     }
   ]
 }
