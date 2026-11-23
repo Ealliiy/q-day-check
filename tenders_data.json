@@ -1,14 +1,8 @@
 {
-  "updated": "2026-11-22",
-  "last_successful_update": "2026-11-22",
+  "updated": "2026-11-23",
+  "last_successful_update": "2026-11-23",
   "health": "ok",
   "history": [
-    {
-      "timestamp": "2026-10-24 09:23",
-      "date": "2026-10-24",
-      "status": "ok",
-      "count": 2
-    },
     {
       "timestamp": "2026-10-25 09:42",
       "date": "2026-10-25",
@@ -182,6 +176,12 @@
       "date": "2026-11-22",
       "status": "ok",
       "count": 3
+    },
+    {
+      "timestamp": "2026-11-23 15:50",
+      "date": "2026-11-23",
+      "status": "ok",
+      "count": 4
     }
   ],
   "tenders": [
@@ -194,7 +194,7 @@
       "deadline": "2026-11-25 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=%20hLHVqkeDJGEe3bDl19PRg==",
-      "days_remaining": 3
+      "days_remaining": 2
     },
     {
       "title": "خدمات الطباعة المدارة لوزارة الطاقة",
@@ -205,7 +205,7 @@
       "deadline": "2026-11-29 14:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8BP9IDV*@@**pwKbl4OWoPc*@@**Iw==",
-      "days_remaining": 7
+      "days_remaining": 6
     },
     {
       "title": "تقديم خدمات مراقبة التهديدات السيبرانية",
@@ -216,7 +216,18 @@
       "deadline": "2026-11-29 16:00",
       "ended": false,
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MNRtKeendGgQbXU0w6iMMA==",
-      "days_remaining": 7
+      "days_remaining": 6
+    },
+    {
+      "title": "توريد وتحديث منظومة الشبكات لمراكز البيانات في",
+      "tender_number": "2026000331",
+      "reference_number": "261139002897",
+      "agency": "وزارة الطاقة - شعبة المشتريات - الرياض",
+      "publish_date": "2026-11-22",
+      "deadline": "2026-12-22 16:00",
+      "ended": false,
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=oAVtuZVkR8eh8hfb4wiLSQ==",
+      "days_remaining": 29
     }
   ]
 }
